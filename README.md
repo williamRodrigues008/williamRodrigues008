@@ -1,0 +1,3 @@
+- 👋 Hi, I’m William Rodrigues
+- 👀 I’m interested in Proggraming on platform .Net of the Microsoft...
+- 🌱 I’m currently learning Dart and improving my knowledge in ReacJS and VB.Net
