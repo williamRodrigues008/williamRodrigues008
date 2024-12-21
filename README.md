@@ -1,3 +1,14 @@
-- 👋 Hi, I’m William Rodrigues
-- 👀 I’m interested in Proggraming on platform .Net of the Microsoft...
-- 🌱 I’m currently learning Dart and improving my knowledge in ReacJS and VB.Net
+Olá, seja bem-vindo ao meu perfil GitHub, sou desenvolvedor .net, mas também possuo conhecimento e projetos em outras linguagens de programação como:
+-Shell
+-Javascript
+-SQL
+-VB
+-MongoDB
+
+Também possuo conhecimento em outras tecnologias:
+-Asp Net
+-Blazor
+-Flutter
+-React
+-AngularJS
+-RabbitMQ
